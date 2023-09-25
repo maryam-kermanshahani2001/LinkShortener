@@ -1,0 +1,10 @@
+{
+  "PROJECT_HOST": "0.0.0.0",
+  "PROJECT_PORT": 8001,
+  "TIME": 300,
+  "REDIS_HOST": "cchw2redis",
+  "REDIS_PORT": "6379",
+  "API_ROUTE": "https://api.rebrandly.com/v1/links",
+  "API_KEY": "4adccf2c26c4471e914d35ad07d39a07",
+  "WORKSPACE": "0da772c71e864a24be1b05aa7d1dce53"
+}
